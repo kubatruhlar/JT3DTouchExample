@@ -3,7 +3,7 @@
 Example of the new 3D touch in iOS
 
 <h3 align="center">
-  <img src="https://github.com/kubatru/JT3DTouchExample/tree/master/Screens/img.png" alt="Example"/>
+  <img src="https://raw.githubusercontent.com/kubatru/JT3DTouchExample/master/Screens/img.png" alt="Example" width="300"/>
 </h3>
 
 ## Author
